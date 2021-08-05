@@ -1,3 +1,4 @@
+#allocation problem solution in python
 T=int(input())
 A=[]
 for t in range(1,T+1):
